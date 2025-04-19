@@ -2,7 +2,7 @@ export const data = {
   bride: {
     L: {
       id: 1,
-      name: "Muuk",
+      name: "Cahyo",
       child: "Putra ke lorem",
       father: "Lorem",
       mother: "Ipsum",
@@ -10,7 +10,7 @@ export const data = {
     },
     P: {
       id: 2,
-      name: "Rull",
+      name: "Nurul",
       child: "Putri ke lorem",
       father: "Lorem",
       mother: "Ipsum",
@@ -22,7 +22,7 @@ export const data = {
 
   time: {
     marriage: {
-      year: "2030",
+      year: "2025",
       month: "November",
       date: "14",
       day: "Kamis",
@@ -32,7 +32,7 @@ export const data = {
       },
     },
     reception: {
-      year: "2024",
+      year: "2025",
       month: "November",
       date: "14",
       day: "Kamis",
